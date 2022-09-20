@@ -21,11 +21,6 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  abg_utils: 3.5.1
-  
-  
-  
-  
   
   archive: 3.1.6
   cached_network_image: 3.2.0
@@ -34,41 +29,31 @@ dependencies:
   firebase_auth: 3.3.13
   firebase_core: 1.14.0
   firebase_messaging: 11.2.12
-  firebase_storage
-  flutter
-  flutter_app_badger
-  flutter_facebook_auth
-  flutter_html
-  flutter_paystack
-  flutter_stripe
-  geolocator
-  google_maps_flutter
-  google_maps_webservice
-  google_sign_in
-  google_sign_in_web
-  http, http_auth
-  intl
-  js
-  maps_toolkit
-  path_provider
-  pdf
-  qr_flutter
-  razorpay_flutter_31
-  sign_in_with_apple
-  timeago
-  universal_html
-  url_launcher
-  uuid 
-  webview_flutter
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  firebase_storage: 10.2.11
+  flutter_app_badger: 1.4.0
+  flutter_facebook_auth: 3.5.7
+  flutter_html: 2.2.1
+  flutter_paystack: 1.0.5
+  flutter_stripe: 2.4.0
+  geolocator: 8.2.0
+  google_maps_flutter: 2.0.3
+  google_maps_webservice: 0.0.20
+  google_sign_in: 5.2.4
+  google_sign_in_web: 0.10.0
+  http: 0.13.4
+  http_auth: 1.0.1
+  intl: 0.17.0
+  js: 0.6.3
+  maps_toolkit: 2.0.0
+  path_provider: 2.0.9
+  pdf: 3.6.4
+  qr_flutter: 4.0.0
+  sign_in_with_apple: 3.3.0
+  timeago: 3.2.2
+  universal_html: 2.0.8
+  url_launcher: 6.0.20
+  uuid: 3.0.5
+  webview_flutter: 2.8.0
   
   
   pay: ^1.0.6
