@@ -27,37 +27,37 @@ dependencies:
   
   
   
-  archive: 3.1.6
-  cached_network_image: 3.2.0
-  cloud_firestore: 3.1.11
-  csv: 5.0.1
-  firebase_auth: 3.3.13
-  firebase_core: 1.14.0
-  firebase_messaging: 11.2.12
-  firebase_storage: 10.2.11
-  flutter_app_badger: 1.4.0
-  flutter_facebook_auth: 3.5.7
-  flutter_html: 2.2.1
-  flutter_paystack: ^1.0.5+1
-  flutter_stripe: 2.4.0
-  geolocator: 8.2.0
-  google_sign_in: 5.2.4
-  google_sign_in_web: ^0.10.0+3
-  http: 0.13.4
-  http_auth: 1.0.1
-  intl: 0.17.0
-  js: 0.6.3
-  maps_toolkit: 2.0.0
-  path_provider: 2.0.9
-  pdf: 3.6.4
-  qr_flutter: 4.0.0
-  razorpay_flutter_31: 1.2.8
-  sign_in_with_apple: 3.3.0
+  archive:
+  cached_network_image:
+  cloud_firestore:
+  csv:
+  firebase_auth:
+  firebase_core:
+  firebase_messaging:
+  firebase_storage:
+  flutter_app_badger:
+  flutter_facebook_auth:
+  flutter_html:
+  flutter_paystack:
+  flutter_stripe:
+  geolocator:
+  google_sign_in:
+  google_sign_in_web:
+  http:
+  http_auth:
+  intl:
+  js:
+  maps_toolkit:
+  path_provider:
+  pdf:
+  qr_flutter:
+  razorpay_flutter_31:
+  sign_in_with_apple:
   timeago: 3.2.2
-  universal_html: 2.0.8
-  url_launcher: 6.0.20
-  uuid: 3.0.5
-  webview_flutter: 2.8.0
+  universal_html:
+  url_launcher:
+  uuid:
+  webview_flutter:
   
   
   
