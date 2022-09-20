@@ -22,7 +22,7 @@ environment:
 
 dependencies:
  
-  pay: ^1.0.6
+
   share: ^2.0.4
   syncfusion_flutter_sliders: 19.2.48
   flutter_localizations:
