@@ -42,7 +42,7 @@ dependencies:
   flutter_stripe: 2.4.0
   geolocator: 8.2.0
   google_sign_in: 5.2.4
-  google_sign_in_web: 0.10.0
+  google_sign_in_web: ^0.10.0+3
   http: 0.13.4
   http_auth: 1.0.1
   intl: 0.17.0
