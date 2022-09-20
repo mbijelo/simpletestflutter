@@ -38,7 +38,7 @@ dependencies:
   flutter_app_badger: 1.4.0
   flutter_facebook_auth: 3.5.7
   flutter_html: 2.2.1
-  flutter_paystack: 1.0.5
+  flutter_paystack: ^1.0.5+1
   flutter_stripe: 2.4.0
   geolocator: 8.2.0
   google_sign_in: 5.2.4
