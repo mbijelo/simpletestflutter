@@ -58,18 +58,4 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/
-    - assets/fonts/
-    - assets/ondemands/
-    - assets/elements/
 
-  fonts:
-    - family: Montserrat
-      fonts:
-        - asset: assets/fonts/Montserrat-Regular.ttf
-          weight: 400
-        - asset: assets/fonts/Montserrat-Bold.ttf
-          weight: 600
-        - asset: assets/fonts/Montserrat-ExtraBold.ttf
-          weight: 800
